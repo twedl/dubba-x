@@ -1,1 +1,2 @@
-# dubba keymap with home row mods
+# dubba-x
+qmk keymap for the dubba
